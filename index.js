@@ -19,7 +19,7 @@ function inc(n){
   return (n)
 }
 
-function dec(n){
+function dec(n, 10){
   n--
   return (n)
 }
